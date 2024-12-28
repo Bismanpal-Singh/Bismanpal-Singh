@@ -1,16 +1,31 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**Bismanpal-Singh/Bismanpal-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Bismanpal Singh Anand**, a passionate software developer and a lifelong learner 🚀. Here's a little about me:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🌱 I’m currently pursuing a **Master’s in Computer Science** at UC Davis.
+- 🔍 I have a keen interest in **AI/ML**, **Web Development**, and **Data Science**.
+- 🛠️ I enjoy building innovative solutions and exploring cutting-edge technologies.
+
+---
+
+## ✨ My Skills
+- **Programming Languages:** Python 🐍, JavaScript 🌐, C++ 💻
+- **Web Development:** React ⚛️, Tailwind CSS 🎨, Flask 🌟
+- **Data Science & AI:** Machine Learning 🤖, NLP 🗣️, TensorFlow 🔥, PyTorch 🔧
+- **Tools & Platforms:** Git & GitHub 🛠️, Docker 🐳, Linux 🐧
+- **Soft Skills:** Public Speaking 🎤, Team Management 🤝, Problem-Solving 🔍
+
+---
+
+## 🔗 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/bismanpal-anand/)
+- 📧 Email: bpsanand@ucdavis.edu
+- 🌐 [Portfolio Website](#) (Coming Soon!)
+
+---
+
+Thank you for visiting my profile! 😊
+Feel free to explore my repositories and projects. Let's collaborate and create something amazing! 🚀
