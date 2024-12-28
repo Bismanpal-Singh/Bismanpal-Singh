@@ -6,15 +6,16 @@ Hi there! I'm **Bismanpal Singh Anand**, a passionate software developer and a l
 
 ## 👨‍💻 About Me
 - 🌱 I’m currently pursuing a **Master’s in Computer Science** at UC Davis.
-- 🔍 I have a keen interest in **AI/ML**, **Web Development**, and **Data Science**.
+- 🔍 I have a keen interest in **Software Development**, **AI/ML**, **Data Science**, and **Data Visualization**.
 - 🛠️ I enjoy building innovative solutions and exploring cutting-edge technologies.
 
 ---
 
 ## ✨ My Skills
-- **Programming Languages:** Python 🐍, JavaScript 🌐, C++ 💻
-- **Web Development:** React ⚛️, Tailwind CSS 🎨, Flask 🌟
+- **Programming Languages:** Java ☕, Python 🐍, JavaScript 🌐, C++ 💻
+- **Web Development:** React ⚛️, Next.js ⚡, Node.js 🌐, Tailwind CSS 🎨
 - **Data Science & AI:** Machine Learning 🤖, NLP 🗣️, TensorFlow 🔥, PyTorch 🔧
+- **Data Analysis & Visualization:** Pandas 📊, Matplotlib 📈, Seaborn 🎨, Plotly 📉
 - **Tools & Platforms:** Git & GitHub 🛠️, Docker 🐳, Linux 🐧
 - **Soft Skills:** Public Speaking 🎤, Team Management 🤝, Problem-Solving 🔍
 
@@ -27,5 +28,5 @@ Hi there! I'm **Bismanpal Singh Anand**, a passionate software developer and a l
 
 ---
 
-Thank you for visiting my profile! 😊
+Thank you for visiting my profile! 😊  
 Feel free to explore my repositories and projects. Let's collaborate and create something amazing! 🚀
