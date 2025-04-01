@@ -22,7 +22,7 @@ Hi there! I'm **Bismanpal Singh Anand**, a passionate software developer and a l
 ---
 
 ## 🔗 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/bismanpal-anand/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bismanpal-singh/)
 - 📧 Email: bpsanand@ucdavis.edu
 - 🌐 [Portfolio Website](#) (Coming Soon!)
 
