@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Bismanpal Singh Anand  
 
-I'm a **Software Developer & Researcher** passionate about building intelligent systems at the intersection of **AI, distributed systems, and full-stack development**.  
+I'm a **Software Engineer** passionate about building intelligent systems at the intersection of **AI, distributed systems, and full-stack development**.  
 
-Currently pursuing my **M.S. in Computer Science** at **UC Davis**, I work at the **Exploratory Systems Lab (ExpoLab)** as a **Graduate Software Engineer** — developing next-generation infrastructure and developer tools around **[ResilientDB](https://resilientdb.com/)**, a blockchain-backed distributed database.  
+Currently pursuing my **M.S. in Computer Science** at **UC Davis**, I work at the **Exploratory Systems Lab (ExpoLab)** as a **Graduate Software Engineer** — developing next-generation infrastructure and developer tools around **[ResilientDB](https://resilientdb.com/)**, a high-throughput distributed ledger system.  
 
 ---
 
@@ -15,7 +15,7 @@ Currently pursuing my **M.S. in Computer Science** at **UC Davis**, I work at th
 ---
 
 ## 🧩 Open Source & Community
-- 🏗️ **PPMC Member — [ResilientDB (Apache Incubating)](https://resilientdb.com/)**  
+- 🏗️ **Contributor & Maintainer — [ResilientDB (Apache Incubating)](https://resilientdb.com/)**  
   Contributing to open-source development of a blockchain-backed distributed database.  
   Lead initiatives integrating **AI-assisted tooling**, **smart contract frameworks**, and **observability systems**.  
 - 💬 Mentor new contributors in system design, CI/CD workflows, and code quality best practices.
@@ -72,7 +72,7 @@ Full-Stack Development · Distributed Systems · Large-Scale System Design · AI
 ---
 
 ## 📚 Experience Snapshot
-- 🧩 **Graduate Software Engineer, UC Davis — ExpoLab (2025–Present)** – Building distributed systems infrastructure, AI-powered developer tools (ResAI), and CI/CD pipelines deployed on AWS EC2.
+- 🧩 **Graduate Software Engineer, UC Davis — ExpoLab (2025–Present)** – Building distributed systems infrastructure, AI-powered developer tools, and CI/CD pipelines deployed on AWS EC2.
 - 💼 **Software Engineer Intern, QuickFlora (Summer 2025)** – Led development of a production-grade SaaS delivery platform processing 1,000+ daily deliveries across 50+ retail stores.
 - 🔬 **Data Scientist Intern, Tatras Data (2023)** – Engineered a BERT-based NLP pipeline for large-scale sentiment analysis and information retrieval across 100K+ social posts; reports reached 500K+ readers.
 
